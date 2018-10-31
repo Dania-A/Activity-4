@@ -1,5 +1,5 @@
 //
-//  PlaySoundsViewController+Audio.swift
+//  PlaySoundsViewController.swift
 //  PitchPerfect
 //
 //  Copyright © 2016 Udacity. All rights reserved.
